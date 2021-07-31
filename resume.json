@@ -1,0 +1,81 @@
+{
+    "basics": {
+        "name": "Bhargav Sompura",
+        "label": "Student",
+	"picture": "https://avatars.githubusercontent.com/u/76112295?s=400&u=6729c85cd849af3fbfc68b41387e5c0c2e4667de&v=4",
+        "email": "2020kucp1027@iiitkota.ac.in",
+        "phone": "+919079335159",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Rajasthan",
+            "postalCode": "313802",
+            "city": "Udaipur",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "sompura_bh",
+                "url": "https://twitter.com/sompura_bhargav"
+            },
+            {
+                "network": "Github",
+                "username": "bhargav070",
+                "url": "https://www.github.com/bhargav070"
+            },
+            {
+                "network": "linkedin",
+                "username": "Bhargav Sompura",
+                "url": "https://www.linkedin.com/in/bhargav-sompura-96501b186/"
+            },
+            {
+                "network": "Instagram",
+                "username": "b_sompura",
+                "url": "https://www.instagram.com/b_sompura/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Intermediate"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Singing"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+            		"Cricket"
+            ]
+        }
+    ],
+    "references": []
+}
