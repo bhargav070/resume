@@ -42,16 +42,14 @@
         },
         {
             "institution": "Mahaveer Public Senior Secondary School, Rishabhdeo (CBSE)",
-            "area": "Science",
-            "studyType": "Class 12th",
+            "area": "Class 12th",
             "startDate": "2018",
             "endDate": "2019",
             "score": "91.8%"
         },
         {
             "institution": "Mahaveer Public Senior Secondary School, Rishabhdeo (CBSE)",
-            "area": "General Education",
-            "studyType": "Class 10th",
+            "area": "Class 10th",
             "startDate": "2016",
             "endDate": "2017",
             "score": "10 CGPA"
@@ -90,33 +88,17 @@
         {
             "name": "Languages",
             "level": "Intermediate",
-            "keywords": ["C", "C++", "Python", "JavaScript", "SQL"]
-        },
-        {
-            "name": "Web Technology",
-            "level": "Intermediate",
-            "keywords": ["HTML", "CSS", "JavaScript", "Bootstrap", "React.js"]
-        },
-        {
-            "name": "Frameworks",
-            "level": "Intermediate",
-            "keywords": ["React.js", "Node.js", "Express.js"]
-        },
-        {
-            "name": "Databases",
-            "level": "Intermediate",
-            "keywords": ["MongoDB", "MySQL"]
-        },
-        {
-            "name": "Dev Tools",
-            "level": "Intermediate",
-            "keywords": ["VsCode", "Github"]
+            "keywords": ["C", "C++", "Python", "JavaScript", "SQL","HTML", "CSS", "JavaScript", "Bootstrap", "React.js", "Node.js", "Express.js","MongoDB", "MySQL","VsCode", "Github"]
         }
     ],
     "languages": [
         {
             "language": "English",
             "fluency": "Intermediate"
+        },
+        {
+            "language": "Hindi",
+            "fluency": "Native"
         }
     ],
     "interests": [
