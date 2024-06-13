@@ -4,7 +4,7 @@
         "label": "Student",
         "picture": "https://raw.githubusercontent.com/bhargav070/resume/main/photo_2023-05-25_13-45-04.jpg",
         "email": "2020kucp1027@iiitkota.ac.in",
-        "phone": "+919079335159",
+        "phone": "+91 9079335159",
         "summary": "I'm Bhargav Sompura, a Computer Science and Engineering student at the Indian Institute of Information Technology, Kota. With a strong foundation in programming languages like C++, Python, and JavaScript, I'm passionate about tackling complex challenges. During my academic journey, I've delved into diverse projects, from optimizing data center efficiency to creating user-friendly web applications. I take pride in my ability to efficiently utilize technologies like React.js, Node.js, MongoDB, and MySQL.",
         "location": {
             "address": "Rajasthan",
@@ -15,9 +15,9 @@
         },
         "profiles": [
             {
-                "network": "Twitter",
-                "username": "sompura_bhargav",
-                "url": "https://twitter.com/sompura_bhargav"
+                "network": "LinkedIn",
+                "username": "Bhargav Sompura",
+                "url": "https://www.linkedin.com/in/bhargav-sompura-96501b186/"
             },
             {
                 "network": "Github",
@@ -25,35 +25,92 @@
                 "url": "https://www.github.com/bhargav070"
             },
             {
-                "network": "LinkedIn",
-                "username": "Bhargav Sompura",
-                "url": "https://www.linkedin.com/in/bhargav-sompura-96501b186/"
-            },
-            {
-                "network": "Instagram",
-                "username": "b_sompura",
-                "url": "https://www.instagram.com/b_sompura/"
+                "network": "Leetcode",
+                "username": "bhargav-sompura",
+                "url": "https://leetcode.com/bhargav-sompura/"
             }
         ]
     },
     "education": [
         {
             "institution": "Indian Institute of Information Technology, Kota",
-            "area": "Engineering",
+            "area": "Computer Science and Engineering",
             "studyType": "Bachelor of Technology",
-            "courses": [
-                "Computer Science & Engineering"
-            ]
+            "startDate": "2020",
+            "endDate": "2024",
+            "gpa": "8.43"
+        },
+        {
+            "institution": "Mahaveer Public Senior Secondary School, Rishabhdeo (CBSE)",
+            "area": "Science",
+            "studyType": "Class 12th",
+            "startDate": "2018",
+            "endDate": "2019",
+            "score": "91.8%"
+        },
+        {
+            "institution": "Mahaveer Public Senior Secondary School, Rishabhdeo (CBSE)",
+            "area": "General Education",
+            "studyType": "Class 10th",
+            "startDate": "2016",
+            "endDate": "2017",
+            "score": "10 CGPA"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Minimizing VM migrations in VM consolidation",
+            "description": "We conducted extensive research to enhance the efficiency of VM consolidation in data centers. Innovative approach by integrating the DARIMA predictive algorithm, MUMR(Maximum Utilization minimum RAM) migration policy, and UBTF(utilization-based tight fit algorithm) placement policy.",
+            "highlights": [
+                "11% reduction in energy consumption",
+                "59% decrease in SLA violations",
+                "63% improvement in Energy Savings Value (ESV)",
+                "51% reduction in VM migrations"
+            ],
+            "keywords": ["JAVA", "Cloudsim", "Machine learning(ARIMA)"],
+            "startDate": "2023-02",
+            "endDate": "2023-04"
+        },
+        {
+            "name": "ExerciseTracker",
+            "description": "Created a responsive full-stack web app for tracking daily exercise. Enabled users to log exercise sessions with details such as type, duration, and date. Supported CRUD operations for exercise records, allowing editing and deletion.",
+            "keywords": ["React.js", "JavaScript", "MongoDB", "Node.js", "Express.js", "Bootstrap", "VScode", "GitHub"],
+            "startDate": "2023-06",
+            "endDate": "2023-07"
+        },
+        {
+            "name": "MemeMaster",
+            "description": "Generate custom memes by selecting from various pre-existing images and adding their captions. Utilizes an API imgflip to spawn meme image.",
+            "keywords": ["React.js", "HTML", "CSS", "JavaScript", "VScode", "GitHub"],
+            "startDate": "2023-01",
+            "endDate": "2023-02"
         }
     ],
     "skills": [
         {
-            "level": "Beginner",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "C/C++"
-            ]
+            "name": "Languages",
+            "level": "Intermediate",
+            "keywords": ["C", "C++", "Python", "JavaScript", "SQL"]
+        },
+        {
+            "name": "Web Technology",
+            "level": "Intermediate",
+            "keywords": ["HTML", "CSS", "JavaScript", "Bootstrap", "React.js"]
+        },
+        {
+            "name": "Frameworks",
+            "level": "Intermediate",
+            "keywords": ["React.js", "Node.js", "Express.js"]
+        },
+        {
+            "name": "Databases",
+            "level": "Intermediate",
+            "keywords": ["MongoDB", "MySQL"]
+        },
+        {
+            "name": "Dev Tools",
+            "level": "Intermediate",
+            "keywords": ["VsCode", "Github"]
         }
     ],
     "languages": [
@@ -65,16 +122,17 @@
     "interests": [
         {
             "name": "Singing",
-            "keywords": [
-                "Singing"
-            ]
+            "keywords": ["Singing"]
         },
         {
             "name": "Playing",
-            "keywords": [
-                "Chess",
-                "Cricket"
-            ]
+            "keywords": ["Chess", "Cricket"]
+        }
+    ],
+    "achievements": [
+        {
+            "title": "Competitive Programming",
+            "description": "Solved over 500 programming questions on Codechef, Codeforces, LeetCode, and GeekForGeeks. 1706 rated on CodeChef. 1,772 rated on Leetcode (Top 8.74%)."
         }
     ],
     "references": []
